@@ -1,0 +1,12 @@
+insert into kanken values( '1級','大学・一般程度' );
+insert into kanken values( '準1級','大学・一般程度' );
+insert into kanken values( '2級','高校卒業・大学・一般程度' );
+insert into kanken values( '準2級','高校在学程度' );
+insert into kanken values( '3級','中学校卒業程度' );
+insert into kanken values( '4級','中学校在学程度' );
+insert into kanken values( '5級','小学校6年生修了程度' );
+insert into kanken values( '6級','小学校5年生修了程度' );
+insert into kanken values( '7級','小学校4年生修了程度' );
+insert into kanken values( '8級','小学校3年生修了程度' );
+insert into kanken values( '9級','小学校2年生修了程度' );
+insert into kanken values( '10級','小学校1年生修了程度' );
