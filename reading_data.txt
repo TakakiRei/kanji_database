@@ -1,0 +1,15 @@
+insert into reading values( '条', 'ジョウ' );
+insert into reading values( '条', 'えだ' );
+insert into reading values( '条', 'すじ' );
+insert into reading values( '夏', 'カ' );
+insert into reading values( '夏', 'ゲ' );
+insert into reading values( '夏', 'なつ' );
+insert into reading values( '漸', 'ゼン' );
+insert into reading values( '漸', 'ザン' );
+insert into reading values( '漸', 'ようやく' );
+insert into reading values( '漸', 'すすむ' );
+insert into reading values( '漸', 'やや' );
+insert into reading values( '瞥', 'ベツ' );
+insert into reading values( '瞥', 'みる' );
+insert into reading values( '塚', 'チョウ' );
+insert into reading values( '塚', 'つか' );
