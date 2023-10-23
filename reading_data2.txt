@@ -1,0 +1,3 @@
+insert into reading values( '亜', 'あ' );
+insert into reading values( '亜', 'い' );
+insert into reading values( '亜', 'う' );
